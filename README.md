@@ -14,6 +14,7 @@ The project focuses on **frontend UI development and DOM interaction** while kee
 ```bash
 flipkart-ui-clone/
 │
+├── assets/           # Images / icons
 ├── index.html        # Main UI layout
 ├── style.css         # Styling and responsive design
 ├── app.js            # UI logic and event handling
@@ -129,16 +130,23 @@ No server, frameworks, or build tools are required.
 
 ## ⚖️ Disclaimer
 
-This project is created strictly for educational purposes.
+> This project is created strictly for educational purposes.
 
-Flipkart is a registered trademark of its respective owners.
-This repository is **not affiliated with, endorsed by, or connected to Flipkart** in any way.
+> Flipkart is a registered trademark of its respective owners.
+
+> This repository is **not affiliated with, endorsed by, or connected to Flipkart** in any way.
+
+---
+
+## 📸 Preview
+
+![Rich CLI Preview](assets/Flip-UI.png)
 
 ---
 
 ## 🪪 Author
 
-> **Shakal Bhau**
+> **Creator: Shakal Bhau**
 
 > **GitHub: [ShakalBhau0001](https://github.com/ShakalBhau0001)**
 
